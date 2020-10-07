@@ -1,5 +1,8 @@
 # CrazyWarrior
 Independent double nozzle 3d printer for COREXY
  The project is still working! so Do not use it for any commercial purpose.
- 
- 
+ Warning! This is not suitable for cowards,
+ this is the use of three stepper motors to work together to synthesize x-axis, x1-axis and y-axis, 
+ but this fitting is different from the fixed trigonometric function solution of incremental printer. 
+ Therefore, the installation and adjustment of this structure are extremely brain burning. 
+ If you are prepared enough to be patient and brave enough, you can follow me and you can also have a good dual carriage corexy printer: >
